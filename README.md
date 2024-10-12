@@ -24,7 +24,7 @@
 
 **Tools**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="5%">  <img src="https://github.com/Marencia/MariaFlorenciaRosatelli/blob/main/img/q.png" width="5%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="5%">  <img src="https://github.com/Marencia/MariaFlorenciaRosatelli/blob/main/img/q.png" width="5%">  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="5%">  <img src="https://1000marcas.net/wp-content/uploads/2020/11/Microsoft-Office-logo.png" width="8%">   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" width="10%">
 
 ## Social Media
 
