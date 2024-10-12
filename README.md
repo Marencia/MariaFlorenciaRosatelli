@@ -18,7 +18,13 @@
 
 ## My skills
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/416474ba-7818-4241-8e82-32a7caded352/dgg8mzd-57638032-f9c5-4f6f-bcc5-a6729c7404bc.png/v1/fill/w_894,h_894/png_pascal_by_mikemoon1990_dgg8mzd-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcLzQxNjQ3NGJhLTc4MTgtNDI0MS04ZTgyLTMyYTdjYWRlZDM1MlwvZGdnOG16ZC01NzYzODAzMi1mOWM1LTRmNmYtYmNjNS1hNjcyOWM3NDA0YmMucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.gq8_zICZhwEcYjYbIZmb3eLofuRnI5UTc0SnpJV4yPU" width="10%"><img src="https://www.svgrepo.com/show/376344/python.svg" width="10%"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="8%"> <img src="https://embetronicx.b-cdn.net/storage/2022/05/vhdl.png" width="10%">
+**Languages**
+
+<img src="https://www.svgrepo.com/show/376344/python.svg" width="10%"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="8%"> <img src="https://embetronicx.b-cdn.net/storage/2022/05/vhdl.png" width="10%"><img src="file:///C:/Users/floro/Desktop/MFR/MARENCIA/Pascal.png.html" width="10%">
+
+**Tools**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="5%">
 
 ## Social Media
 
