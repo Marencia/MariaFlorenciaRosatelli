@@ -20,11 +20,11 @@
 
 **Languages**
 
-<img src="https://www.svgrepo.com/show/376344/python.svg" width="10%"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="8%"> <img src="https://embetronicx.b-cdn.net/storage/2022/05/vhdl.png" width="10%"><img src="file:///C:/Users/floro/Desktop/MFR/MARENCIA/Pascal.png.html" width="10%">
+<img src="https://github.com/Marencia/MariaFlorenciaRosatelli/blob/main/img/C.png" width="10%"><img src="https://github.com/Marencia/MariaFlorenciaRosatelli/blob/main/img/Pascal.png" width="10%"><img src="https://github.com/Marencia/MariaFlorenciaRosatelli/blob/main/img/VHDL.png" width="10%"><img src="https://github.com/Marencia/MariaFlorenciaRosatelli/blob/main/img/python.png" width="10%">
 
 **Tools**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="5%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="5%">  <img src="https://github.com/Marencia/MariaFlorenciaRosatelli/blob/main/img/q.png" width="5%">
 
 ## Social Media
 
