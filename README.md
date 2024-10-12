@@ -1,5 +1,6 @@
 # MariaFlorenciaRosatelli
-![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3eca2708-e5de-4905-a210-d627835a9491/dacgjfa-794379e2-95f8-42e0-85dc-72b513218809.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNlY2EyNzA4LWU1ZGUtNDkwNS1hMjEwLWQ2Mjc4MzVhOTQ5MVwvZGFjZ2pmYS03OTQzNzllMi05NWY4LTQyZTAtODVkYy03MmI1MTMyMTg4MDkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qr9sQNPiZP673i7TZDYtXEP1msVQ2cQLH4NK4ELn_OY) ## About me
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3eca2708-e5de-4905-a210-d627835a9491/dacgjfa-794379e2-95f8-42e0-85dc-72b513218809.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNlY2EyNzA4LWU1ZGUtNDkwNS1hMjEwLWQ2Mjc4MzVhOTQ5MVwvZGFjZ2pmYS03OTQzNzllMi05NWY4LTQyZTAtODVkYy03MmI1MTMyMTg4MDkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qr9sQNPiZP673i7TZDYtXEP1msVQ2cQLH4NK4ELn_OY) 
+## About me
 
 Hi! I'm electronics engineering student (80%). I have projects on VHDL, C, Arduino and i have used  AppInventor from MIT. You can find everything here! Also, PCB and SolidWorks projects and desingns will be uploaded. 
 
