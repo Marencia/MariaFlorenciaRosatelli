@@ -9,8 +9,7 @@
 * <img src="https://lc.cx/tdQPBp" width="2%">  : As researcher i'm working with sorting algorithms for hardware implementetion, specifically on FPGA.
 
 * <img src="https://n9.cl/81sag" width="1.8%">  : I work as student assistant at UNMDP on "Programing fundamentals" and "Physics II" and it is exciting!
-* 
-   ![](https://acortar.link/ZOa7mB): I would love to work as a team to find solutions to new ideas.
+* :eyeglasses: I would love to work as a team to find solutions to new ideas.
   
 * :space_invader: : The other side of me is music and sports. 🥁 I love playing the drums or piano, 🏀 playing basketball with my friends, 🔖and reading books.
 
